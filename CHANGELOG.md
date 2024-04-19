@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
+- ENH: Implement optional plot saving [#597](https://github.com/RocketPy-Team/RocketPy/pull/597)
 - ENH: Complex step differentiation [#594](https://github.com/RocketPy-Team/RocketPy/pull/594)
 - ENH: Exponential backoff decorator (fix #449) [#588](https://github.com/RocketPy-Team/RocketPy/pull/588)
 - ENH: Function Validation Rework & Swap `np.searchsorted` to `bisect_left` [#582](https://github.com/RocketPy-Team/RocketPy/pull/582)
